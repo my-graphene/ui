@@ -228,7 +228,7 @@ class RouterTransitioner {
             url: connectionString,
             urls: urls,
             closeCb: this._onConnectionClose.bind(this),
-            optionalApis: {enableOrders: true},
+            optionalApis: {enableOrders: false},
             urlChangeCallback: url => {
                 console.log("fallback to new url:", url);
                 this._willTransitionToInProgress = url;
@@ -512,7 +512,7 @@ class RouterTransitioner {
     _attemptReconnect(resolve, reject) {
         this._oldChain = "old";
         Apis.reset(this._connectionManager.url, true, undefined, {
-            enableOrders: true
+            enableOrders: false
         }).then(instance => {
             instance.init_promise
                 .then(this._onConnect.bind(this, resolve, reject))
@@ -536,10 +536,6 @@ class RouterTransitioner {
         }
         this._connectInProgress = true;
         if (Apis.instance()) {
-            if (!Apis.instance().orders_api())
-                console.log(
-                    `${Apis.instance().url} does not support the orders api`
-                );
             let currentUrl = Apis.instance().url;
             SettingsActions.changeSetting({
                 setting: "activeNode",

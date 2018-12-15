@@ -1416,7 +1416,7 @@
         "backup_favoritestext":
             "Back up your favorites to restore them later after updates.",
         "backup_key": "Özel anahtar aktar",
-        "backup_legacy": "BTS 0.9.3c .json dosyası ile cüzdan kurtar",
+        "backup_legacy": "DBX 0.9.3c .json dosyası ile cüzdan kurtar",
         "backup_text": "Cüzdan yedekleme",
         "backupcreate_backup": "Cüzdanı yedekle",
         "backupcreate_brainkey": "TekAnahtar yedeği oluştur",
@@ -1450,7 +1450,7 @@
         "lightTheme": "Açık tema",
         "local_wallet": "Local Wallet Login",
         "locale": "Dili değiştir",
-        "lookup_text": "BTS 1.0'den kalan bakiyelerinizi almak için tıklayın.",
+        "lookup_text": "DBX 1.0'den kalan bakiyelerinizi almak için tıklayın.",
         "low_latency": "Low latency",
         "medium_latency": "Medium latency",
         "midnightTheme": "Midnight",
@@ -1834,7 +1834,7 @@
         "brainkey_w1": "UYARI : Bunu bir kağıda yazın yada çıktı alın.",
         "brainkey_w2": "Kurtarma anahtarınıza ulaşan herhangi bir kimse",
         "brainkey_w3": "bu cüzdan içindeki fonlara ulaşabilir.",
-        "bts_09_export": "BTS 0.9.3c yedek anahtar dosyası (.json)",
+        "bts_09_export": "DBX 0.9.3c yedek anahtar dosyası (.json)",
         "bts_rules":
             "The first rule of Bitshares is: Do not lose your password.<br/>The second rule of Bitshares is: Do not lose your password.<br />The third rule of Bitshares is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
         "cancel": "İptal",
@@ -1896,7 +1896,7 @@
         "import_backup_choose":
             "Lütfen yedekleme dosyasını seçin. Bu işlem esnasında dosya kendi bilgisayarınızdan dışarıya asla aktarılmaz, bütün işlem bilgisayarınızda gerçekleşir.",
         "import_balance": "Bakiyeyi aktar.",
-        "import_bts": "BTS 0.9.3c anahtar aktarma",
+        "import_bts": "DBX 0.9.3c anahtar aktarma",
         "import_bts1": "BitShares 0.9.3c den aktarım",
         "import_key_success": "İşleminiz başarıyla tamamlandı!",
         "import_keys": "İçeri Anahtar Aktar",

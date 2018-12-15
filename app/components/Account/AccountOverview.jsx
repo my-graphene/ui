@@ -52,7 +52,7 @@ class AccountOverview extends React.Component {
             withdrawAsset: null,
             bridgeAsset: null,
             alwaysShowAssets: [
-                "BTS"
+                "DBX"
                 // "USD",
                 // "CNY",
                 // "OPEN.BTC",
@@ -236,7 +236,7 @@ class AccountOverview extends React.Component {
     }
 
     _renderBuy = (symbol, canBuy, assetName, emptyCell, balance) => {
-        if (symbol === "BTS" && balance <= 100000) {
+        if (symbol === "DBX" && balance <= 100000) {
             // Precision of 5, 1 = 10^5
             return (
                 <span>
@@ -405,7 +405,7 @@ class AccountOverview extends React.Component {
             );
             const canDeposit =
                 (backedCoin && backedCoin.depositAllowed) ||
-                asset.get("symbol") == "BTS";
+                asset.get("symbol") == "DBX";
 
             const canWithdraw =
                 backedCoin &&
@@ -653,7 +653,7 @@ class AccountOverview extends React.Component {
                                 .find(
                                     a => a.backingCoin === thisAssetName[1]
                                 ) ||
-                            asset.get("symbol") == "BTS";
+                            asset.get("symbol") == "DBX";
 
                         const canBuy = !!this.props.bridgeCoins.get(
                             asset.get("symbol")
@@ -672,7 +672,7 @@ class AccountOverview extends React.Component {
                             ? market
                             : core_asset
                                 ? core_asset.get("symbol")
-                                : "BTS";
+                                : "DBX";
                         let directMarketLink = notCore ? (
                             <Link
                                 to={`/market/${asset.get(
