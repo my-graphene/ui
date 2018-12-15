@@ -1862,7 +1862,7 @@
         "brainkey_w1": "ADVERTENCIA: Imprima esta clave, o anótela.",
         "brainkey_w2": "Cualquiera con acceso a su llave de recuperación",
         "brainkey_w3": "tendrá acceso a los fondos de esta billetera.",
-        "bts_09_export": "DBX 0.9.3c Exportar el file de la llave (.json)",
+        "bts_09_export": "RUI 0.9.3c Exportar el file de la llave (.json)",
         "bts_rules":
             "La primera regla de BitShares es: No pierdas tu contraseña.<br/>La segunda regla de BitShares es: No pierdas tu contraseña.<br />La tercera regla de BitShares es: no podemos recuperar su contraseña.<br />La cuarta regla: si puede recordar la contraseña, no es segura.<br />La quinta regla: use solo contraseñas generadas aleatoriamente.<br />La sexta regla: No le digas a nadie tu contraseña. <br /> La séptima regla: Siempre haz una copia de seguridad de tu contraseña.",
         "cancel": "Cancelar",

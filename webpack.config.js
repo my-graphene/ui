@@ -87,7 +87,7 @@ module.exports = function(env) {
             ),
             __TESTNET__: !!env.testnet,
             __DEPRECATED__: !!env.deprecated,
-            DEFAULT_SYMBOL: "DBX",
+            DEFAULT_SYMBOL: "RUI",
             __GIT_BRANCH__: JSON.stringify(git.branch())
         }),
         new webpack.ContextReplacementPlugin(

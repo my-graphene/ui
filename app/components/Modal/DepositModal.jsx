@@ -59,7 +59,7 @@ class DepositModalContent extends DecimalChecker {
             let assetGateway = backedAsset[0];
             this._getDepositAddress(assetName, assetGateway);
         } else {
-            this.setState({selectedAsset: "DBX"});
+            this.setState({selectedAsset: "RUI"});
         }
     }
 
@@ -229,7 +229,7 @@ class DepositModalContent extends DecimalChecker {
         let {account} = this.props;
         let usingGateway = true;
 
-        if (selectedGateway == null && selectedAsset == "DBX") {
+        if (selectedGateway == null && selectedAsset == "RUI") {
             usingGateway = false;
             depositAddress = {address: account};
         }

@@ -65,7 +65,7 @@ export function getDefaultLogin() {
  * @returns {[string,string,string,string,string,string]}
  */
 export function getUnits() {
-    return ["DBX", "USD", "CNY", "BTC", "EUR", "GBP"];
+    return ["RUI", "USD", "CNY", "BTC", "EUR", "GBP"];
 }
 
 /**
@@ -75,7 +75,7 @@ export function getUnits() {
  */
 
 export function getMyMarketsBases() {
-    return ["USD", "OPEN.BTC", "CNY", "DBX", "BTC"];
+    return ["USD", "OPEN.BTC", "CNY", "RUI", "BTC"];
 }
 
 /**
@@ -85,7 +85,7 @@ export function getMyMarketsBases() {
  */
 export function getMyMarketsQuotes() {
     return [
-        "DBX",
+        "RUI",
         //
         "BKT",
         "BLOCKPAY",
@@ -94,7 +94,7 @@ export function getMyMarketsQuotes() {
         "BRIDGE.MONA",
         "BRIDGE.ZNY",
         "BTC",
-        "DBXR",
+        "RUIR",
         "BTWTY",
         "CADASTRAL",
         "CNY",
@@ -163,7 +163,7 @@ export function getMyMarketsQuotes() {
  */
 export function getFeaturedMarkets() {
     return [
-        ["USD", "DBX"],
+        ["USD", "RUI"],
         ["USD", "OPEN.BTC"],
         ["USD", "OPEN.USDT"],
         ["USD", "OPEN.ETH"],
@@ -174,7 +174,7 @@ export function getFeaturedMarkets() {
         ["USD", "GDEX.ETH"],
         ["USD", "GDEX.EOS"],
         ["USD", "GDEX.BTO"],
-        ["CNY", "DBX"],
+        ["CNY", "RUI"],
         ["CNY", "OPEN.BTC"],
         ["CNY", "USD"],
         ["CNY", "OPEN.ETH"],
@@ -185,55 +185,55 @@ export function getFeaturedMarkets() {
         ["CNY", "GDEX.EOS"],
         ["CNY", "GDEX.BTO"],
         ["CNY", "GDEX.BTM"],
-        ["OPEN.BTC", "DBX"],
+        ["OPEN.BTC", "RUI"],
         ["OPEN.BTC", "OPEN.ETH"],
         ["OPEN.BTC", "OPEN.DASH"],
         ["OPEN.BTC", "BLOCKPAY"],
         ["OPEN.BTC", "OPEN.DGD"],
         ["OPEN.BTC", "OPEN.STEEM"],
-        ["DBX", "OPEN.ETH"],
-        ["DBX", "OPEN.EOS"],
-        ["DBX", "PPY"],
-        ["DBX", "OPEN.STEEM"],
-        ["DBX", "OBITS"],
-        ["DBX", "RUBLE"],
-        ["DBX", "HERO"],
-        ["DBX", "OCT"],
-        ["DBX", "SILVER"],
-        ["DBX", "GOLD"],
-        ["DBX", "BLOCKPAY"],
-        ["DBX", "BTWTY"],
-        ["DBX", "SMOKE"],
-        ["DBX", "GDEX.BTC"],
-        ["DBX", "GDEX.ETH"],
-        ["DBX", "GDEX.EOS"],
-        ["DBX", "GDEX.BTO"],
+        ["RUI", "OPEN.ETH"],
+        ["RUI", "OPEN.EOS"],
+        ["RUI", "PPY"],
+        ["RUI", "OPEN.STEEM"],
+        ["RUI", "OBITS"],
+        ["RUI", "RUBLE"],
+        ["RUI", "HERO"],
+        ["RUI", "OCT"],
+        ["RUI", "SILVER"],
+        ["RUI", "GOLD"],
+        ["RUI", "BLOCKPAY"],
+        ["RUI", "BTWTY"],
+        ["RUI", "SMOKE"],
+        ["RUI", "GDEX.BTC"],
+        ["RUI", "GDEX.ETH"],
+        ["RUI", "GDEX.EOS"],
+        ["RUI", "GDEX.BTO"],
         ["KAPITAL", "OPEN.BTC"],
         ["USD", "OPEN.STEEM"],
         ["USD", "OPEN.MAID"],
         ["OPEN.USDT", "OPEN.BTC"],
         ["OPEN.BTC", "OPEN.MAID"],
-        ["DBX", "OPEN.MAID"],
-        ["DBX", "OPEN.HEAT"],
-        ["DBX", "OPEN.INCENT"],
+        ["RUI", "OPEN.MAID"],
+        ["RUI", "OPEN.HEAT"],
+        ["RUI", "OPEN.INCENT"],
         ["HEMPSWEET", "OPEN.BTC"],
-        ["KAPITAL", "DBX"],
-        ["DBX", "RUDEX.STEEM"],
+        ["KAPITAL", "RUI"],
+        ["RUI", "RUDEX.STEEM"],
         ["USD", "RUDEX.STEEM"],
-        ["DBX", "RUDEX.SBD"],
-        ["DBX", "RUDEX.KRM"],
+        ["RUI", "RUDEX.SBD"],
+        ["RUI", "RUDEX.KRM"],
         ["USD", "RUDEX.KRM"],
         ["RUBLE", "RUDEX.GOLOS"],
         ["CNY", "RUDEX.GOLOS"],
         ["RUBLE", "RUDEX.GBG"],
         ["CNY", "RUDEX.GBG"],
-        ["DBX", "RUDEX.MUSE"],
-        ["DBX", "RUDEX.TT"],
-        ["DBX", "RUDEX.SCR"],
-        ["DBX", "RUDEX.ETH"],
-        ["DBX", "RUDEX.DGB"],
-        ["DBX", "ZEPH"],
-        ["DBX", "HERTZ"]
+        ["RUI", "RUDEX.MUSE"],
+        ["RUI", "RUDEX.TT"],
+        ["RUI", "RUDEX.SCR"],
+        ["RUI", "RUDEX.ETH"],
+        ["RUI", "RUDEX.DGB"],
+        ["RUI", "ZEPH"],
+        ["RUI", "HERTZ"]
     ];
 }
 
