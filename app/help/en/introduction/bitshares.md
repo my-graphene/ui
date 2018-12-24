@@ -13,7 +13,7 @@ You can chat with other member of the Bitshares community in real time at:
 ### Developers
 If you are a software developer, you may contribute via a bounty system at:
 
-- [Github UI](https://github.com/bitshares/bitshares-ui)
+- [Github UI](https://github.com/rui-coin/rui-ui)
 - [Github Core](https://github.com/bitshares/bitshares-core) 
 
 ## Introduction

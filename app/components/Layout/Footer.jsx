@@ -71,7 +71,7 @@ class Footer extends React.Component {
     checkNewVersionAvailable() {
         if (__ELECTRON__) {
             fetch(
-                "https://api.github.com/repos/bitshares/bitshares-ui/releases/latest"
+                "https://api.github.com/repos/rui-coin/rui-ui/releases/latest"
             )
                 .then(res => {
                     return res.json();
@@ -424,7 +424,7 @@ class Footer extends React.Component {
                                     />
                                     {__GIT_BRANCH__ === "staging" ? (
                                         <a
-                                            href={`https://github.com/bitshares/bitshares-ui/commit/${version.trim()}`}
+                                            href={`https://github.com/rui-coin/rui-ui/commit/${version.trim()}`}
                                             className="version"
                                             target="_blank"
                                             rel="noopener noreferrer"

@@ -88,7 +88,7 @@ class AccountDepositWithdraw extends React.Component {
         });
     }
 
-    toggleBTService(service) {
+    toggleRUIervice(service) {
         this.setState({
             btService: service
         });
@@ -268,7 +268,7 @@ class AccountDepositWithdraw extends React.Component {
                         >
                             <ul className="button-group segmented no-margin">
                                 <li
-                                    onClick={this.toggleBTService.bind(
+                                    onClick={this.toggleRUIervice.bind(
                                         this,
                                         "bridge"
                                     )}

@@ -22,7 +22,7 @@
         "contacts": "Contactos",
         "create_account": "Crear cuenta",
         "create_new": "Crear una nueva cuenta",
-        "deposit": "Depositar BTS",
+        "deposit": "Depositar RUI",
         "deposit_address": "Su dirección de depósito es su nombre de cuenta",
         "deposit_withdraw": "Depositar/Retirar",
         "eq_value": "Estimated",
@@ -57,7 +57,7 @@
             "Este es el valor estimado de lo %(asset)s que usted tiene en pedidos abiertos.",
         "intro_text_1": "Su Decentralized Exchange",
         "intro_text_2":
-            "<b>El DEX</b> está inherentemente descentralizado, permitiéndote comerciar BitShares core token (BTS) y un rango de activos sin confianza con precio estable, vinculado al mercado como bitUSD, bitCNY, bitBTC, bitGold y mucho mas. estos activos pueden ser comerciados sin <b>zero</b> rischio de contraparte, poniéndote en control total de tus fondos.",
+            "<b>El DEX</b> está inherentemente descentralizado, permitiéndote comerciar BitShares core token (RUI) y un rango de activos sin confianza con precio estable, vinculado al mercado como bitUSD, bitCNY, bitBTC, bitGold y mucho mas. estos activos pueden ser comerciados sin <b>zero</b> rischio de contraparte, poniéndote en control total de tus fondos.",
         "intro_text_3":
             "<b>El DEX</b> también permite la creación de activos emitidos por el usuario (UIAs), que pueden ser comerciados en contra de cualquier otro UIAs o activos sin confianza en la plataforma.  Un emisor muy conocido en The DEX es <b> OpenLedger</b>, que ofrece una serie de activos que incluyen BTC, ETH, STEEM, DASH, LTC, DOGE, y mucho mas",
         "intro_text_4":
@@ -768,13 +768,13 @@
                 "Para crear su nuevo trabajador, complete el siguiente formulario. El trabajador se creará utilizando su cuenta actualmente activa, que ya debe ser un miembro vitalicio.",
             "create_text_2":
                 "Considere cuidadosamente los parámetros que elige, ya que no se pueden cambiar una vez que haya publicado su trabajador.",
-            "daily_pay": "Pago diario (BTS)",
+            "daily_pay": "Pago diario (RUI)",
             "date_text":
                 "La fecha de inicio debe ser de al menos una semana en el futuro para que las personas tengan tiempo de descubrir, evaluar y votar a su trabajador.",
             "name_text":
                 "El nombre de su trabajador debe ser breve y descriptivo, algo como esto: 'Objetivo del trabajador - Nombre de la cuenta'",
             "pay_text":
-                "El pago diario define cuánto quiere que le paguen por día y se define en BTS. La mejor práctica actual es definir un salario en USD / CNY, y comprometerse a quemar cualquier superávit que reciba como resultado del aumento del precio de BTS. Mientras su trabajador esté activo y tenga suficientes votos para estar por encima del trabajador de reembolso, recibirá este salario diario.",
+                "El pago diario define cuánto quiere que le paguen por día y se define en RUI. La mejor práctica actual es definir un salario en USD / CNY, y comprometerse a quemar cualquier superávit que reciba como resultado del aumento del precio de RUI. Mientras su trabajador esté activo y tenga suficientes votos para estar por encima del trabajador de reembolso, recibirá este salario diario.",
             "period": "Duración del trabajador",
             "title": "Presupuestos por Trabajos",
             "url_text":
@@ -840,7 +840,7 @@
         "bitkapital_withdraw": "Estás retirando",
         "bridge": "Puente",
         "bridge_text":
-            "Un puente le permite intercambiar un activo por otro, por ejemplo BTC a BTS.",
+            "Un puente le permite intercambiar un activo por otro, por ejemplo BTC a RUI.",
         "calc": "Calculando",
         "choose_deposit": "Seleccione la moneda que desea depositar",
         "choose_withdraw": "Seleccione la moneda que desea retirar",
@@ -1167,7 +1167,7 @@
             "amount": "Cantidad a depositar",
             "asset": "Asset",
             "bts_transfer_description":
-                "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
+                "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
             "header": "Deposit to %(account_name)s",
@@ -1424,7 +1424,7 @@
             "Haga una copia de seguridad de sus favoritos para restaurarlos más tarde después de las actualizaciones.",
         "backup_key": "Importar una clave privada",
         "backup_legacy":
-            "Importar un BTS 0.9.3c archivo clave de exportación(.json)",
+            "Importar un RUI 0.9.3c archivo clave de exportación(.json)",
         "backup_text": "Crea copias de seguridad aquí.",
         "backupcreate_backup":
             "Crear una copia de seguridad local de la billetera",
@@ -1460,7 +1460,7 @@
         "local_wallet": "Acceso local a la billetera",
         "locale": "Cambiar Idioma",
         "lookup_text":
-            "Haga clic en el botón a continuación para verificar los saldos no reclamados desde BTS 1.0",
+            "Haga clic en el botón a continuación para verificar los saldos no reclamados desde RUI 1.0",
         "low_latency": "Baja latencia",
         "medium_latency": "Latencia media",
         "midnightTheme": "Midnight",
@@ -1570,7 +1570,7 @@
             "¡Esta propuesta fue creada por un estafador conocido, no la aprueba!",
         "propose_tip": "Proponer otro usuario para iniciar una transacción",
         "settle":
-            "El settling te permitirá de convertir tus propriedades de %(asset)s en BTS después de un retraso de 24 horas, a un precio igual al precio dado en ese momento.",
+            "El settling te permitirá de convertir tus propriedades de %(asset)s en RUI después de un retraso de 24 horas, a un precio igual al precio dado en ese momento.",
         "settle_price":
             "Este es el precio al que se ejecutarán los pedidos colocados.",
         "show_asset":
@@ -1920,13 +1920,13 @@
         "go_get_started": "Empezando",
         "has_wallet":
             "Cuando cree su primera cuenta de BitShares, también se creará automáticamente una billetera local BitShares y se almacenará en su navegador. Esta billetera local está encriptada con su contraseña, y contendrá cualquier clave privada que pertenezca a sus cuentas. ¡Es importante que se tome el tiempo para hacer una copia de seguridad de esta billetera una vez creada!",
-        "import_20_notice1": "Importar su BACKUP BTS 2.0+ primero",
+        "import_20_notice1": "Importar su BACKUP RUI 2.0+ primero",
         "import_20_notice2": "(si lo tiene)",
         "import_backup": "Importar Backup",
         "import_backup_choose":
             "Seleccione su archivo de copia de seguridad en el cuadro de diálogo a continuación. Esto es completamente seguro ya que el archivo no se carga en ninguna parte y nunca abandona su navegador.",
         "import_balance": "Importar balance(s)",
-        "import_bts": "Importar a BTS 0.9.3c exportar llave",
+        "import_bts": "Importar a RUI 0.9.3c exportar llave",
         "import_bts1": "Importar desde BitShares 0.9.3c",
         "import_key_success": "Exitosamente importados %(count)s keys.",
         "import_keys": "Importar Llaves",

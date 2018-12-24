@@ -37,7 +37,7 @@ class DepositWithdrawAssetSelector extends React.Component {
 
         let coinArr = [];
 
-        if (!(this.props.includeBTS === false)) {
+        if (!(this.props.includeRUI === false)) {
             coinArr.push({id: "RUI", label: "RUI", gateway: ""});
         }
 

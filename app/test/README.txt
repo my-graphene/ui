@@ -5,7 +5,7 @@ The Genesis account and contains a very large testing
 balance.  The funds may be transferred using the genesis_private key.
 
 Genesis Private Key: 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
-Genesis Public Key: GPH6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
+Genesis Public Key: RUI6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
 
 = Lookup the account's public keys
 Graphene > $g.db.api.exec("get_objects",[["1.2.0"]])
@@ -17,7 +17,7 @@ o.owner
 
 $g.db.api.exec("get_objects",[["1.2.0"]])
 [ { id: '1.2.0',
-    key_data: [ 1, 'GPH7Pz9Xfpn9rBbWvvmPgcbESGDmRTfoEt6E6gkrspwk2YX49VCUJ' ] } ]
+    key_data: [ 1, 'RUI7Pz9Xfpn9rBbWvvmPgcbESGDmRTfoEt6E6gkrspwk2YX49VCUJ' ] } ]
 
 == Account 1.2.15
 
@@ -52,7 +52,7 @@ the actual public key:
 
 $g.db.api.exec("get_objects",[["1.2.1"]])
 [ { id: '1.2.1',
-    key_data: [ 1, 'GPH6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV' ] } ]
+    key_data: [ 1, 'RUI6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV' ] } ]
 
 Create market asset:
 

@@ -16,7 +16,7 @@
 
 Если вы являетесь разработчиком программного обеспечения, то можете поучаствовать в баунти-программе здесь:
 
-- [Github UI](https://github.com/bitshares/bitshares-ui)
+- [Github UI](https://github.com/rui-coin/rui-ui)
 - [Github Core](https://github.com/bitshares/bitshares-core) 
 
 ## Введение

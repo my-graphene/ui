@@ -22,7 +22,7 @@
         "contacts": "Kontaklar",
         "create_account": "Hesap oluştur",
         "create_new": "Yeni Hesap Oluştur",
-        "deposit": "Deposit BTS",
+        "deposit": "Deposit RUI",
         "deposit_address": "Your deposit address is your account name",
         "deposit_withdraw": "Yatır/Çek",
         "eq_value": "Eş Değeri",
@@ -761,13 +761,13 @@
                 "In order to create your new worker, please fill in the form below. The worker will be created using your currently active account, which must already be a lifetime member.",
             "create_text_2":
                 "Consider carefully the parameters you choose as they can not be changed once you've published your worker.",
-            "daily_pay": "Daily pay (BTS)",
+            "daily_pay": "Daily pay (RUI)",
             "date_text":
                 "The start date should be at least a week into the future in order to allow people the time to discover, evaluate and vote for your worker.",
             "name_text":
                 "The name of your worker should be short and descriptive, something like this: 'Worker Purpose - Account Name'",
             "pay_text":
-                "The daily pay defines how much you want to be paid per day and is defined in BTS. The current best practice is to define a salary in USD/CNY, and commit to burning whatever surplus you receive as a result of the BTS price increasing. As long as your worker is active and has sufficient votes to be above the refund worker, you will receive this daily salary.",
+                "The daily pay defines how much you want to be paid per day and is defined in RUI. The current best practice is to define a salary in USD/CNY, and commit to burning whatever surplus you receive as a result of the RUI price increasing. As long as your worker is active and has sufficient votes to be above the refund worker, you will receive this daily salary.",
             "period": "Worker duration",
             "title": "Bütçe Öğeleri",
             "url_text":
@@ -836,7 +836,7 @@
         "bitkapital_withdraw": "Satılan miktar",
         "bridge": "Köprü",
         "bridge_text":
-            " Köprüler bir dijital varlıktan bir diğerine geçiş yapmanızı sağlar, örn. BTC'yi BTS'ye.",
+            " Köprüler bir dijital varlıktan bir diğerine geçiş yapmanızı sağlar, örn. BTC'yi RUI'ye.",
         "calc": "Hesaplanıyor...",
         "choose_deposit": "Lütfen yatırmak istediğiniz dijital varlığı seçin",
         "choose_withdraw": "Lütfen çekmek istediğiniz dijital varlığı seçin",
@@ -1160,7 +1160,7 @@
             "amount": "Yatıralacak Miktar",
             "asset": "Asset",
             "bts_transfer_description":
-                "It's easy to receive BTS from anywhere. As long as BTS is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
+                "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
             "header": "Deposit to %(account_name)s",
@@ -1553,7 +1553,7 @@
             "Bu işlem teklifi bilinen bir dolandırıcı tarafından sunulmuştur, onaylamayın!",
         "propose_tip": "Propose another user to initiate a transaction",
         "settle":
-            "Sona erdirme işlemi dijital varlıklarınızı 24 saatlik bir gecikme ile o anki fiyat üzerinden BTS'ye dönüştürmenizi sağlar",
+            "Sona erdirme işlemi dijital varlıklarınızı 24 saatlik bir gecikme ile o anki fiyat üzerinden RUI'ye dönüştürmenizi sağlar",
         "settle_price": "Sona erdirilen emirlerin gerçekleşeceği fiyat",
         "show_asset": "Bu dijital varlığı ana listede göstermek için tıklayın.",
         "show_block":
@@ -1890,7 +1890,7 @@
         "go_get_started": "Getting Started",
         "has_wallet":
             "Bitshares hesabı açtığınızda cüzdanınızın kontrolü tamamen size aittir. Bir başka kişi sizin cüzdanınızı kontrol edemez. Cüzdana erişim için gerekli olan TekAnahtar bilgisayarınızda şifreli olarak saklanır.",
-        "import_20_notice1": "İlk önce BTS 2.0+ YEDEĞİNİZİ içeri aktarın ",
+        "import_20_notice1": "İlk önce RUI 2.0+ YEDEĞİNİZİ içeri aktarın ",
         "import_20_notice2": "(eğer varsa)",
         "import_backup": "Yedekten geri yükle",
         "import_backup_choose":
