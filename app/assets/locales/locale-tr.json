@@ -8,7 +8,7 @@
         "asset_details": "Aktif detayları",
         "bittrex_scam":
             "Bu adres Bittrex'in gerçek adresi değildir. Lütfen alıcıyı bittrex-deposit olarak değiştirin.",
-        "bts_market": "Piyasa",
+        "rui_market": "Piyasa",
         "collaterals": "Teminat Pozisyonları",
         "confirm_asset_modal": {
             "are_you_sure":
@@ -1159,7 +1159,7 @@
             "address_generation_error": "Unable to generate address",
             "amount": "Yatıralacak Miktar",
             "asset": "Asset",
-            "bts_transfer_description":
+            "rui_transfer_description":
                 "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
@@ -1834,8 +1834,8 @@
         "brainkey_w1": "UYARI : Bunu bir kağıda yazın yada çıktı alın.",
         "brainkey_w2": "Kurtarma anahtarınıza ulaşan herhangi bir kimse",
         "brainkey_w3": "bu cüzdan içindeki fonlara ulaşabilir.",
-        "bts_09_export": "RUI 0.9.3c yedek anahtar dosyası (.json)",
-        "bts_rules":
+        "rui_09_export": "RUI 0.9.3c yedek anahtar dosyası (.json)",
+        "rui_rules":
             "The first rule of Bitshares is: Do not lose your password.<br/>The second rule of Bitshares is: Do not lose your password.<br />The third rule of Bitshares is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
         "cancel": "İptal",
         "change": "Değiştir (%(name)s Cüzdan)",
@@ -1896,8 +1896,8 @@
         "import_backup_choose":
             "Lütfen yedekleme dosyasını seçin. Bu işlem esnasında dosya kendi bilgisayarınızdan dışarıya asla aktarılmaz, bütün işlem bilgisayarınızda gerçekleşir.",
         "import_balance": "Bakiyeyi aktar.",
-        "import_bts": "RUI 0.9.3c anahtar aktarma",
-        "import_bts1": "BitShares 0.9.3c den aktarım",
+        "import_rui": "RUI 0.9.3c anahtar aktarma",
+        "import_rui1": "BitShares 0.9.3c den aktarım",
         "import_key_success": "İşleminiz başarıyla tamamlandı!",
         "import_keys": "İçeri Anahtar Aktar",
         "import_keys_tool": "Anahtar Aktarım Aracı",

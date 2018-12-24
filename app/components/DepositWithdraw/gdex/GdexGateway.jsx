@@ -499,7 +499,7 @@ class GdexGateway extends React.Component {
                                 />:{" "}
                             </label>
                             <select
-                                className="external-coin-types bts-select"
+                                className="external-coin-types rui-select"
                                 onChange={this.onSelectCoin.bind(this)}
                                 value={activeCoinInfo.name}
                             >
@@ -561,7 +561,7 @@ class GdexGateway extends React.Component {
                                 user_id={user_info.user_id}
                                 action={this.state.action}
                                 gateway={"gdex"}
-                                btsCoin={coin.innerSymbol}
+                                ruiCoin={coin.innerSymbol}
                                 memo_rule={memo_rule}
                             />
                         </div>

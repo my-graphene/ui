@@ -8,7 +8,7 @@
         "asset_details": "Dettagli asset",
         "bittrex_scam":
             "Questo non è il vero account Bittrex, per favore invia al seguente account: bittrex-deposit.",
-        "bts_market": "Mercato",
+        "rui_market": "Mercato",
         "collaterals": "Posizioni con margine",
         "confirm_asset_modal": {
             "are_you_sure":
@@ -1168,7 +1168,7 @@
             "address_generation_error": "Unable to generate address",
             "amount": "Quantità da depositare",
             "asset": "Asset",
-            "bts_transfer_description":
+            "rui_transfer_description":
                 "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
@@ -1862,8 +1862,8 @@
         "brainkey_w2":
             "Chiunque abbia accesso alla tua chiave di recupero avrà",
         "brainkey_w3": "accesso ai fondi in questo portafoglio.",
-        "bts_09_export": "File di esportazione chiavi RUI 0.9.3c (.json)",
-        "bts_rules":
+        "rui_09_export": "File di esportazione chiavi RUI 0.9.3c (.json)",
+        "rui_rules":
             "La prima regola di BitShares è: Non perdere la tua password.<br/>La seconda regola di BitShares è: Non perdere la tua password.<br />La terza regola di BitShares è: Non possiamo recuperare la tua password.<br />La quarta regola: Se puoi ricordare la tua password, allora non è sicura.<br />La quinta regola: Usa solo password generate a caso.<br />La sesta regola: Non dire a nessuno la tua password.<br />La settima regola: Fai sempre il backup della tua password.",
         "cancel": "Annulla",
         "change": "Cambia a %(name)s",
@@ -1926,8 +1926,8 @@
         "import_backup_choose":
             "Seleziona il tuo file di backup nella finestra di dialogo sotto. Farlo è sicuro perché il file non è mai caricato online e non lascia il tuo browser.",
         "import_balance": "Importa saldo/i",
-        "import_bts": "Importa un'esportazione chiavi RUI 0.9.3c",
-        "import_bts1": "Importa da BitShares 0.9.3c",
+        "import_rui": "Importa un'esportazione chiavi RUI 0.9.3c",
+        "import_rui1": "Importa da BitShares 0.9.3c",
         "import_key_success": "%(count)s chiavi importate con successo.",
         "import_keys": "Importa chiavi",
         "import_keys_tool": "Strumento di importazione delle chiavi",

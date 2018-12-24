@@ -93,7 +93,7 @@ class MarketRow extends React.Component {
 
     _onError(imgName) {
         if (!this.state.imgError) {
-            this.refs[imgName.toLowerCase()].src = "asset-symbols/bts.png";
+            this.refs[imgName.toLowerCase()].src = "asset-symbols/rui.png";
             this.setState({
                 imgError: true
             });

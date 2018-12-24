@@ -8,7 +8,7 @@
         "asset_details": "Detalles de activos",
         "bittrex_scam":
             "Esta cuenta no es la verdadera cuenta de Bittrex, por favor envíe a esta cuenta: bittrex-deposit.",
-        "bts_market": "Mercado",
+        "rui_market": "Mercado",
         "collaterals": "Posiciones Colaterales",
         "confirm_asset_modal": {
             "are_you_sure":
@@ -1166,7 +1166,7 @@
             "address_generation_error": "Unable to generate address",
             "amount": "Cantidad a depositar",
             "asset": "Asset",
-            "bts_transfer_description":
+            "rui_transfer_description":
                 "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
@@ -1862,8 +1862,8 @@
         "brainkey_w1": "ADVERTENCIA: Imprima esta clave, o anótela.",
         "brainkey_w2": "Cualquiera con acceso a su llave de recuperación",
         "brainkey_w3": "tendrá acceso a los fondos de esta billetera.",
-        "bts_09_export": "RUI 0.9.3c Exportar el file de la llave (.json)",
-        "bts_rules":
+        "rui_09_export": "RUI 0.9.3c Exportar el file de la llave (.json)",
+        "rui_rules":
             "La primera regla de BitShares es: No pierdas tu contraseña.<br/>La segunda regla de BitShares es: No pierdas tu contraseña.<br />La tercera regla de BitShares es: no podemos recuperar su contraseña.<br />La cuarta regla: si puede recordar la contraseña, no es segura.<br />La quinta regla: use solo contraseñas generadas aleatoriamente.<br />La sexta regla: No le digas a nadie tu contraseña. <br /> La séptima regla: Siempre haz una copia de seguridad de tu contraseña.",
         "cancel": "Cancelar",
         "change": "Cambiar (%(name)s Billetera)",
@@ -1926,8 +1926,8 @@
         "import_backup_choose":
             "Seleccione su archivo de copia de seguridad en el cuadro de diálogo a continuación. Esto es completamente seguro ya que el archivo no se carga en ninguna parte y nunca abandona su navegador.",
         "import_balance": "Importar balance(s)",
-        "import_bts": "Importar a RUI 0.9.3c exportar llave",
-        "import_bts1": "Importar desde BitShares 0.9.3c",
+        "import_rui": "Importar a RUI 0.9.3c exportar llave",
+        "import_rui1": "Importar desde BitShares 0.9.3c",
         "import_key_success": "Exitosamente importados %(count)s keys.",
         "import_keys": "Importar Llaves",
         "import_keys_tool": "Herramienta clave de importación",

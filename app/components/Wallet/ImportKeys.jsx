@@ -808,7 +808,7 @@ class ImportKeys extends Component {
                                         )}
                                     >
                                         <label>
-                                            <Translate content="wallet.bts_09_export" />
+                                            <Translate content="wallet.rui_09_export" />
                                             {this.state.no_file ? null : (
                                                 <span>
                                                     &nbsp; (<a

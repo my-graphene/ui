@@ -1,5 +1,5 @@
 // Core asset
-require("file-loader?name=asset-symbols/[name].png!./bts.png");
+require("file-loader?name=asset-symbols/[name].png!./rui.png");
 
 // BitAssets
 require("file-loader?name=asset-symbols/[name].png!./usd.png");
@@ -15,7 +15,6 @@ require("file-loader?name=asset-symbols/[name].png!./steem.png");
 require("file-loader?name=asset-symbols/[name].png!./mkr.png");
 require("file-loader?name=asset-symbols/[name].png!./dgd.png");
 require("file-loader?name=asset-symbols/[name].png!./obits.png");
-require("file-loader?name=asset-symbols/[name].png!./btsr.png");
 require("file-loader?name=asset-symbols/[name].png!./dao.png");
 require("file-loader?name=asset-symbols/[name].png!./lisk.png");
 require("file-loader?name=asset-symbols/[name].png!./peerplays.png");

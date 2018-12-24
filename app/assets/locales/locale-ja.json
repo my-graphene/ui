@@ -8,7 +8,7 @@
         "asset_details": "アセット詳細",
         "bittrex_scam":
             "このアカウントは実際のBittrexアカウントではありません。このアカウントに送信してください: bittrex-deposit",
-        "bts_market": "マーケット",
+        "rui_market": "マーケット",
         "collaterals": "マージンポジション",
         "confirm_asset_modal": {
             "are_you_sure":
@@ -1154,7 +1154,7 @@
             "address_generation_error": "アドレスを生成できません",
             "amount": "入金する数量",
             "asset": "アセット",
-            "bts_transfer_description":
+            "rui_transfer_description":
                 "RUIを受け取るのは簡単です。RUIをあなたのアカウント名に対して送れば、あなたのウォレットに届きます。このQRコードにも、あなたのアカウント名が含まれています。",
             "cancel": "キャンセル",
             "close": "閉じる",
@@ -1821,8 +1821,8 @@
             "バックアップを完了するには、これを印刷するか書き留めてください。",
         "brainkey_w2": "あなたのリカバリーキーにアクセスできる人は誰でも",
         "brainkey_w3": "このウォレットの資金にアクセスできます。",
-        "bts_09_export": "RUI 0.9.3cキーエクスポートファイル (.json)",
-        "bts_rules":
+        "rui_09_export": "RUI 0.9.3cキーエクスポートファイル (.json)",
+        "rui_rules":
             "BitSharesの第1のルールは: パスワードをなくさないこと。<br/>BitSharesの第2のルールは: パスワードをなくさないでください。<br/>BitSharesの第3のルールは: 我々はあなたのパスワードを回復することができません。<br />第4のルールは：覚えられるパスワードは安全ではありません。<br />第5のルールは：ランダムに生成したパスワードのみを使用してください。<br />第6のルールは：誰にもパスワードを教えないでください。<br/>第7のルールは：いつもパスワードをバックアップしてください。",
         "cancel": "キャンセル",
         "change": "%(name)sに変更する",
@@ -1886,8 +1886,8 @@
         "import_backup_choose":
             "以下のダイアログでバックアップファイルを選択してください。ファイルはどこにもアップロードされず、ブラウザから離れないため、この操作は安全です。",
         "import_balance": "残高をインポートする",
-        "import_bts": "RUI 0.9.3c キーエクスポートをインポートする",
-        "import_bts1": "BitShares 0.9.3cからインポートする",
+        "import_rui": "RUI 0.9.3c キーエクスポートをインポートする",
+        "import_rui1": "BitShares 0.9.3cからインポートする",
         "import_key_success": "%(count)s のキーが正常にインポートされました。",
         "import_keys": "キーのインポート",
         "import_keys_tool": "キーのインポートツール",

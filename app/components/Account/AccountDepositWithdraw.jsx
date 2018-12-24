@@ -290,12 +290,12 @@ class AccountDepositWithdraw extends React.Component {
                             issuer_account="blocktrades"
                             account={account}
                             initial_deposit_input_coin_type="btc"
-                            initial_deposit_output_coin_type="bts"
+                            initial_deposit_output_coin_type="rui"
                             initial_deposit_estimated_input_amount="1.0"
-                            initial_withdraw_input_coin_type="bts"
+                            initial_withdraw_input_coin_type="rui"
                             initial_withdraw_output_coin_type="btc"
                             initial_withdraw_estimated_input_amount="100000"
-                            initial_conversion_input_coin_type="bts"
+                            initial_conversion_input_coin_type="rui"
                             initial_conversion_output_coin_type="bitbtc"
                             initial_conversion_estimated_input_amount="1000"
                         />
@@ -420,7 +420,7 @@ class AccountDepositWithdraw extends React.Component {
                                 />
                                 <select
                                     onChange={this.onSetService.bind(this)}
-                                    className="bts-select"
+                                    className="rui-select"
                                     value={activeService}
                                 >
                                     {options}

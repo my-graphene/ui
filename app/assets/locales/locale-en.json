@@ -8,7 +8,7 @@
         "asset_details": "Asset details",
         "bittrex_scam":
             "This account is not the real Bittrex account, please send to this account: bittrex-deposit.",
-        "bts_market": "Market",
+        "rui_market": "Market",
         "collaterals": "Margin Positions",
         "confirm_asset_modal": {
             "are_you_sure":
@@ -1167,7 +1167,7 @@
             "address_generation_error": "Unable to generate address",
             "amount": "Amount to Deposit",
             "asset": "Asset",
-            "bts_transfer_description":
+            "rui_transfer_description":
                 "It's easy to receive RUI from anywhere. As long as RUI is sent to your account name it will show up in your wallet. This QR code also contains your account name.",
             "cancel": "Cancel",
             "close": "Close",
@@ -1838,7 +1838,7 @@
             "To complete your backup, print this out, or write it down.",
         "brainkey_w2": "Anyone with access to your recovery key will",
         "brainkey_w3": "have access to funds within this local wallet.",
-        "bts_09_export": "RUI 0.9.3c key export file (.json)",
+        "rui_09_export": "RUI 0.9.3c key export file (.json)",
         "cancel": "Cancel",
         "change": "Change to %(name)s",
         "change_backup":
@@ -1900,8 +1900,8 @@
         "import_backup_choose":
             "Please select your backup file in the dialog below. This is completely safe as the file is not uploaded anywhere and never leaves your browser.",
         "import_balance": "Import balance(s)",
-        "import_bts": "Import a RUI 0.9.3c key export",
-        "import_bts1": "Import from BitShares 0.9.3c",
+        "import_rui": "Import a RUI 0.9.3c key export",
+        "import_rui1": "Import from BitShares 0.9.3c",
         "import_key_success": "Successfully imported %(count)s keys.",
         "import_keys": "Import Keys",
         "import_keys_tool": "Key Import Tool",
