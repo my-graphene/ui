@@ -75,6 +75,6 @@ export const settingsAPIs = {
         {url: "ws://10.100.194.216:38090", location: "Locally hosted"}
     ],
     DEFAULT_FAUCET: "http://10.100.194.216:3000", //liruigang 20180903
-    TESTNET_FAUCET: "https://faucet.testnet.bitshares.eu",
+    TESTNET_FAUCET: "https://faucet.testnet.ruichain.eu",
     RPC_URL: "https://openledger.info/api/"
 };

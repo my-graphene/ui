@@ -1,6 +1,6 @@
 #### Help
 
- * [RuiChain](introduction/bitshares.md)
+ * [RuiChain](introduction/ruichain.md)
  * [Wallet](introduction/wallets.md)
  * [Backups](introduction/backups.md)
  * [Blockchain](introduction/blockchain.md)

@@ -49,7 +49,7 @@ class Footer extends React.Component {
     componentDidMount() {
         this.checkNewVersionAvailable.call(this);
 
-        this.downloadLink = "https://bitshares.org/download";
+        this.downloadLink = "https://ruichain.org/download";
 
         let ensure = this._ensureConnectivity.bind(this);
         ifvisible.on("wakeup", function() {
@@ -107,7 +107,7 @@ class Footer extends React.Component {
 
         if (hintData.length == 0) {
             window.open(
-                "http://docs.bitshares.org/bitshares/user/index.html",
+                "http://docs.ruichain.org/ruichain/user/index.html",
                 "_blank"
             );
         } else {

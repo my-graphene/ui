@@ -3,8 +3,8 @@ Help
 
 If you have any questions, please contact one of the following people:
 
-- fabian@bitshares.org
-- cass@bitshares.org
+- fabian@ruichain.org
+- cass@ruichain.org
 - bitsharesblocks@gmail.com
 - valentine@cryptonomex.com
 

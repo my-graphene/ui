@@ -1130,9 +1130,9 @@
             "In an effort to provide enhanced security for the web-based wallet, we are migrating it, effective immediately to the address below. Please be sure to update any bookmarks you may have.",
         "text_1": "Local wallet detected",
         "text_2":
-            "Please backup your wallet now and restore the backup file to <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
+            "Please backup your wallet now and restore the backup file to <a href='https://wallet.ruichain.org' target='blank' rel='noopener noreferrer'>https://wallet.ruichain.org</a>, which will be your new address for the web wallet. Thanks for your continued support.",
         "text_3":
-            "Please use <a href='https://wallet.bitshares.org' target='blank' rel='noopener noreferrer'>https://wallet.bitshares.org</a> from now on, your existing credentials will let you login there as well.",
+            "Please use <a href='https://wallet.ruichain.org' target='blank' rel='noopener noreferrer'>https://wallet.ruichain.org</a> from now on, your existing credentials will let you login there as well.",
         "title": "Notice"
     },
     "modal": {
@@ -1211,7 +1211,7 @@
             "address_not_valid": "Invalid address",
             "amount": "Abzuhebender Betrag",
             "available": "Available: ",
-            "bitshares_account": "Send to Bitshares Account",
+            "bitshares_account": "Send to RuiChain Account",
             "cancel": "Cancel",
             "cannot_cover": "Insufficient funds!",
             "estimated_value": "Estimated Value",
@@ -1836,7 +1836,7 @@
         "brainkey_w3": "Zugang zu Ihren Finanzen in dieser Geldbörse erhalten",
         "rui_09_export": "RUI 0.9.3c key export file (.json)",
         "rui_rules":
-            "The first rule of Bitshares is: Do not lose your password.<br/>The second rule of Bitshares is: Do not lose your password.<br />The third rule of Bitshares is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
+            "The first rule of RuiChain is: Do not lose your password.<br/>The second rule of RuiChain is: Do not lose your password.<br />The third rule of RuiChain is: We cannot recover your password.<br />The fourth rule: If you can remember the password, it's not secure.<br />The fifth rule: Use only randomly-generated passwords.<br />The sixth rule: Do not tell anyone your password.<br />The seventh rule: Always back up your password.",
         "cancel": "Abbrechen",
         "change": "Wechsele Geldbörse (%(name)s)",
         "change_backup":

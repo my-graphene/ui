@@ -9,7 +9,7 @@ Bu yardım bölümü özet bir genel bakış sağlar ve bu uygulamanın en temel
 kavramlarını tanımlar.
 
 ## Takdim 
- * [RuiChain](introduction/bitshares.md)
+ * [RuiChain](introduction/ruichain.md)
  * [Cüzdan](introduction/wallets.md)
  * [Yedekler](introduction/backups.md)
  * [Blokzinciri](introduction/blockchain.md)

@@ -14,7 +14,7 @@ Bug fixes and improvements
 - Fix #1684 and some excessive Header rerendering
 - Various performance tweaks to render cycles
 - Fix #1671: Restore the create-worker route
-- #1510: Adding API nodes for BitsharesDEX
+- #1510: Adding API nodes for RuiChainDEX
 - Fix #1610: Add react-scroll on account create form
 - Fix #1577 - BSIP-0030 Implementation for margin position updates
 - #1530: Fix error propagation for asset issuance
@@ -48,7 +48,7 @@ Bug fixes and improvements
 --------
 - Various performance tweaks to render cycles
 - Fix #1671: Restore the create-worker route
-- #1510: Adding API nodes for BitsharesDEX
+- #1510: Adding API nodes for RuiChainDEX
 - Fix #1610: Add react-scroll on account create form
 - Fix #1577 - BSIP-0030 Implementation for margin position updates
 - #1530: Fix error propagation for asset issuance
@@ -138,7 +138,7 @@ Release 2.0.180525
 ---------------------------------------------------------------------
 New features
 --------
-- Push new staging builds to https://staging.bitshares.org using Travis
+- Push new staging builds to https://staging.ruichain.org using Travis
 - #905: Replace react-stockcharts with TradingView charts
 - #1512: Add QR scanner on withdraw (beta)
 - #1448: Display walkthrough when user opens exchange for the first time
@@ -470,7 +470,7 @@ New features
 - Rename Openledger Dark theme to Midnight
 - #452 private feed producers
 - #699: Add News section with content from Steemit
-- Add RPC Node wss://us-ny.bitshares.apasia.tech/ws (#817)
+- Add RPC Node wss://us-ny.ruichain.apasia.tech/ws (#817)
 - Add API node: wss://dex.rnglab.org (#810)
 - Show pricechart grid
 
@@ -531,7 +531,7 @@ Release 2.0.171101
 ---------------------------------------------------------------------
 New features
 --------
-- #634 The hosted wallet is now available at wallet.bitshares.org
+- #634 The hosted wallet is now available at wallet.ruichain.org
 - #530 Withdraw amounts now factor in the gate fee
 - #538 The voting page has been completely revamped
 - #579 The margin position tab now includes a set of default assets

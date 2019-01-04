@@ -6,7 +6,7 @@ RuiChain 2.0 - это платформа Финансовых Смарт-Кон�
 
 ## Введение
 
-- [RuiChain](introduction/bitshares.md)
+- [RuiChain](introduction/ruichain.md)
 - [Кошелек](introduction/wallets.md)
 - [Резервные копии](introduction/backups.md)
 - [Блокчейн](introduction/blockchain.md)

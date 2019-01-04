@@ -367,14 +367,14 @@ export default class DropDownMenu extends React.Component {
                         {
                             active:
                                 active.indexOf(
-                                    "/help/introduction/bitshares"
+                                    "/help/introduction/ruichain"
                                 ) !== -1
                         },
                         "divider"
                     )}
                     onClick={this.props.onNavigate.bind(
                         this,
-                        "/help/introduction/bitshares"
+                        "/help/introduction/ruichain"
                     )}
                 >
                     <div className="table-cell">

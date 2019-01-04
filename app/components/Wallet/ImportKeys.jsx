@@ -252,7 +252,7 @@ class ImportKeys extends Component {
     }
 
     /**
-    RUI 1.0 hosted wallet backup (wallet.bitshares.org) is supported.
+    RUI 1.0 hosted wallet backup (wallet.ruichain.org) is supported.
 
     RUI 1.0 native wallets should use wallet_export_keys instead of a wallet backup.
 

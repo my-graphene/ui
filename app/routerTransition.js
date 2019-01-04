@@ -61,7 +61,7 @@ class RouterTransitioner {
         this._willTransitionToInProgress = true;
 
         return new Promise((resolve, reject) => {
-            // Bypass the app init chain for the migration path which is only used at bitshares.org/wallet
+            // Bypass the app init chain for the migration path which is only used at ruichain.org/wallet
             if (__DEPRECATED__) {
                 ChainConfig.setChainId(chainIds.MAIN_NET);
                 let dbPromise = iDB.init_instance(this._getIndexDBImpl())
@@ -260,7 +260,7 @@ class RouterTransitioner {
 
     /**
      *
-     * @param apiNodeUrl the url of the target node, e.g. wss://eu.nodes.bitshares.ws
+     * @param apiNodeUrl the url of the target node, e.g. wss://eu.nodes.ruichain.ws
      * @returns {boolean} true the security matches, meaning that we either have:
      *                         - user connected via http to the wallet and target node is ws:// or wss://
      *                         - user connected via https and target node is wss://

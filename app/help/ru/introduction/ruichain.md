@@ -4,12 +4,12 @@
 
 > Если у Вас возникли проблемы со шлюзом от провайдера, пожалуйста, свяжитесь с ним напрямую. Смотрите список шлюзов в левом меню.
 
-### Чат Bitshares
+### Чат RuiChain
 
-Вы можете общаться с другими членами сообщества Bitshares в реальном времени здесь:
+Вы можете общаться с другими членами сообщества RuiChain в реальном времени здесь:
 
-- [Telegram](https://t.me/BitSharesDEX)
-- [Telegram (ru)](https://t.me/BitSharesDEX_RU)
+- [Telegram](https://t.me/RuiChainDex)
+- [Telegram (ru)](https://t.me/RuiChainDex_RU)
 - [Discord](https://discord.gg/GsjQfAJ)
 
 ### Разработчики
@@ -17,7 +17,7 @@
 Если вы являетесь разработчиком программного обеспечения, то можете поучаствовать в баунти-программе здесь:
 
 - [Github UI](https://github.com/RuiChain/rui-ui)
-- [Github Core](https://github.com/bitshares/bitshares-core) 
+- [Github Core](https://github.com/RuiChain/rui-core) 
 
 ## Введение
 

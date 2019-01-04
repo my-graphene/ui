@@ -9,4 +9,4 @@ RuDEX предоставляет сервис шлюза, построенный
 ## Поддержка
 
 - [Открыть тикет](https://rudex.freshdesk.com)
-- [Telegram Чат](https://t.me/BitSharesDEX_RU)
+- [Telegram Чат](https://t.me/RuiChainDex_RU)
