@@ -788,7 +788,7 @@
         "nosync":
             "ブロックチェーンは同期していません。同期が完了するまでお待ち下さい..",
         "synced": "同期しました",
-        "title": "BitShares",
+        "title": "RuiChain",
         "unsynced": "同期していません",
         "update_available": "更新があります"
     },
@@ -980,7 +980,7 @@
         "payments_beta": "送金 (ベータ)",
         "payments_legacy": "送金 (レガシー)",
         "settings": "設定",
-        "title": "BitShares UI",
+        "title": "RuiChain UI",
         "unlock": "ログイン (ウォレットをアンロック)",
         "unlock_password": "パスワードでログイン",
         "unlock_short": "ログイン",
@@ -1029,7 +1029,7 @@
             "borrow": "Borrow",
             "buy": "Buy"
         },
-        "download": "Download new version of BitShares UI",
+        "download": "Download new version of RuiChain UI",
         "excel": "Download .csv file",
         "eye": "Hide Node",
         "eye-striked": "Show Node",
@@ -1882,12 +1882,12 @@
         "import_20_notice1": "RUI 2.0+ バックアップを最初にインポートする",
         "import_20_notice2": "(お持ちの場合)",
         "import_backup":
-            "BitShares 2.0バックアップ (.bin ファイル) をインポートする",
+            "RuiChain 2.0バックアップ (.bin ファイル) をインポートする",
         "import_backup_choose":
             "以下のダイアログでバックアップファイルを選択してください。ファイルはどこにもアップロードされず、ブラウザから離れないため、この操作は安全です。",
         "import_balance": "残高をインポートする",
         "import_rui": "RUI 0.9.3c キーエクスポートをインポートする",
-        "import_rui1": "BitShares 0.9.3cからインポートする",
+        "import_rui1": "RuiChain 0.9.3cからインポートする",
         "import_key_success": "%(count)s のキーが正常にインポートされました。",
         "import_keys": "キーのインポート",
         "import_keys_tool": "キーのインポートツール",
