@@ -13,8 +13,8 @@ You can chat with other member of the RuiChain community in real time at:
 ### Developers
 If you are a software developer, you may contribute via a bounty system at:
 
-- [Github UI](https://github.com/RuiChain/rui-ui)
-- [Github Core](https://github.com/RuiChain/rui-core)
+- [Github UI](https://github.com/my-graphene/ui)
+- [Github Core](https://github.com/my-graphene/core)
 
 ## Introduction
 Welcome to the worlds fastest decentralized exchange (The DEX).

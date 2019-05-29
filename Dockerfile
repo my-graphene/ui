@@ -9,9 +9,9 @@ RUN apt-get update \
 RUN npm install -g cross-env
 
 # We copy the code from the docker-compose-yml
-# RUN git clone https://github.com/RuiChain/rui-ui.git /rui-ui
-CMD mkdir /rui-ui
-WORKDIR /rui-ui
+# RUN git clone https://github.com/my-graphene/ui.git /ui
+CMD mkdir /ui
+WORKDIR /ui
 
 ADD package.json .
 RUN cross-env npm install --env.prod

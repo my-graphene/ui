@@ -4,19 +4,22 @@
 
 >If you have an issue related to a Gateway provider, please be sure to contact them directly. See Gateways in the left menu.
 
-### RuiChain Chat
+## RuiChain Chat
+
 You can chat with other member of the RuiChain community in real time at:
 
 - [Telegram](https://t.me/RuiChainDex)
 - [Discord](https://discord.gg/GsjQfAJ)
 
-### Developers
+## Developers
+
 If you are a software developer, you may contribute via a bounty system at:
 
-- [Github UI](https://github.com/RuiChain/rui-ui)
-- [Github Core](https://github.com/RuiChain/rui-core)
+- [Github UI](https://github.com/my-graphene/ui)
+- [Github Core](https://github.com/my-graphene/core)
 
 ## Introduction
+
 Welcome to the worlds fastest decentralized exchange (The DEX).
 RuiChain looks to extend the innovation of the blockchain to all industries
 that rely upon the internet to provide their services. Whether its banking,
@@ -35,6 +38,7 @@ consensus technology to create companies that are inherently global,
 transparent, trustworthy, efficient and most importantly profitable.
 
 ## Wallet
+
 This wallet allows access most features of the RuiChain network including
 
 - [BitAssets](/help/assets/mpa)

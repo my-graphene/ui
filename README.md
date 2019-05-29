@@ -1,4 +1,4 @@
-RuiChain-UI
+UI
 ============
 [中文版](README_zh.md)
 
@@ -9,7 +9,7 @@ It *stores all keys locally* in the browser, *never exposing your keys to anyone
 
 ## Getting started
 
-RuiChain-UI depends node Node.js, and version 6+ is required.
+UI depends node Node.js, and version 6+ is required.
 
 On Ubuntu and OSX, the easiest way to install Node is to use the [Node Version Manager](https://github.com/creationix/nvm).
 
@@ -24,8 +24,8 @@ nvm use v6
 Once you have Node installed, you can clone the repo:
 
 ```
-git clone https://github.com/RuiChain/rui-ui.git
-cd rui-ui
+git clone https://github.com/my-graphene/ui.git
+cd ui
 ```
 
 Before launching the GUI you will need to install the npm packages:
@@ -48,7 +48,7 @@ Once the compilation is done the GUI will be available in your browser at: `loca
 
 
 ## Testnet
-By default rui-ui connects to the live RuiChain network, but it's very easy to switch it to the testnet run by Xeroc. To do so, open the UI in a browser, go to Settings, then under Access, select the *Public Testnet Server* in the dropdown menu. You should also change the faucet if you need to create an account, the testnet faucet address is https://testnet.ruichain.eu.
+By default ui connects to the live RuiChain network, but it's very easy to switch it to the testnet run by Xeroc. To do so, open the UI in a browser, go to Settings, then under Access, select the *Public Testnet Server* in the dropdown menu. You should also change the faucet if you need to create an account, the testnet faucet address is https://testnet.ruichain.eu.
 
 The UI will reload and connect to the testnet, where you can use the faucet to create an account and receive an initial sum of test RUI.
 
@@ -90,7 +90,7 @@ Clone this repository, run `docker-compose up` and visit localhost:8080
 ## Contributing
 Please work off the staging branch and make pull requests to that branch. The master branch will only be updated for new releases.
 
-The RuiChain UI team is supported by this [worker proposal](http://www.ruichain.foundation/workers/2018-02-rui-ui). It provides the funds needed to pay the coordinator and the bounties and the RuiChain Foundation.
+The RuiChain UI team is supported by this [worker proposal](http://www.ruichain.foundation/workers/2018-02-ui). It provides the funds needed to pay the coordinator and the bounties and the RuiChain Foundation.
 
 If you would like to get involved, we have a [Telegram chatroom](https://t.me/RuiChainDex) where you can ask questions and get help. You may also join [RuiChain on Discord](https://discord.gg/GsjQfAJ)
 

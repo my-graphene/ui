@@ -92,7 +92,7 @@ Bug fixes and improvements
 - #1560: Enable develop branch with automatic builds
 - #1569: Use unique memo keys when creating new accounts
 - Fix #1568: AssetName crash on non-existing asset
-- #1580 Integrate bitshares-ui-style-guide
+- #1580 Integrate ui-style-guide
 - #1525 - Clear Voting Proxy
 - #1555 - Market Picker fixes for improvements
 
@@ -129,7 +129,7 @@ Bug fixes and improvements
 - #1560: Enable develop branch with automatic builds
 - #1569: Use unique memo keys when creating new accounts
 - Fix #1568: AssetName crash on non-existing asset
-- #1580 Integrate bitshares-ui-style-guide
+- #1580 Integrate ui-style-guide
 - #1525 - Clear Voting Proxy
 - #1555 - Market Picker fixes for improvements
 

@@ -1211,7 +1211,7 @@
             "address_not_valid": "Invalid address",
             "amount": "Abzuhebender Betrag",
             "available": "Available: ",
-            "bitshares_account": "Send to RuiChain Account",
+            "graphene_account": "Send to RuiChain Account",
             "cancel": "Cancel",
             "cannot_cover": "Insufficient funds!",
             "estimated_value": "Estimated Value",

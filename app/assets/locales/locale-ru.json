@@ -1230,7 +1230,7 @@
             "address_not_valid": "Неверный адрес",
             "amount": "Сумма на вывод",
             "available": "Доступно: ",
-            "bitshares_account": "Отправить на аккаунт в RuiChain",
+            "graphene_account": "Отправить на аккаунт в RuiChain",
             "cancel": "Отменить",
             "cannot_cover": "Недостаточно средств",
             "estimated_value": "Ориентировочная стоимость",

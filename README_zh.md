@@ -1,4 +1,4 @@
-RuiChain-UI
+# UI
 ============
 
 这是一个连接 RuiChain API 的轻钱包。RuiChain API 由 *witness_node* 程序提供。
@@ -7,7 +7,7 @@ RuiChain-UI
 
 ## 项目依赖
 
-RuiChain-UI 依赖于 Node.js v6 以上版本。
+UI 依赖于 Node.js v6 以上版本。
 
 在 Linux 和 macOS 上，安装 Node 最简单的方式是用 [NVM](https://github.com/creationix/nvm)。
 
@@ -22,8 +22,8 @@ nvm use v6
 Node 安装完成后，获取项目的源代码：
 
 ```
-git clone https://github.com/RuiChain/rui-ui.git
-cd rui-ui
+git clone https://github.com/my-graphene/ui.git
+cd ui
 ```
 
 在启动之前，需要先安装 npm 软件包：
@@ -46,7 +46,7 @@ npm start
 
 ## 测试网络
 
-默认情况下，rui-ui 会连接到正常瑞链网络。切换到 Xeroc 运行的测试网络也很容易，在设置页面的接入点设置中选择 *Public Testnet Server* 即可。如果你需要创建帐号，你同时需要修改水龙头设置。测试网络的水龙头地址是 https://testnet.ruichain.eu 。
+默认情况下，ui 会连接到正常瑞链网络。切换到 Xeroc 运行的测试网络也很容易，在设置页面的接入点设置中选择 *Public Testnet Server* 即可。如果你需要创建帐号，你同时需要修改水龙头设置。测试网络的水龙头地址是 https://testnet.ruichain.eu 。
 
 UI 会刷新并连接到测试网络，你可以通过水龙头创建账户并收到一些用于测试的 RUI。
 

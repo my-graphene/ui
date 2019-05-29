@@ -18,7 +18,7 @@ import Incognito from "./components/Layout/Incognito";
 import {isIncognito} from "feature_detect";
 import {updateGatewayBackers} from "common/gatewayUtils";
 import titleUtils from "common/titleUtils";
-import {BodyClassName} from "bitshares-ui-style-guide";
+import {BodyClassName} from "ui-style-guide";
 import Loadable from "react-loadable";
 
 import {Route, Switch} from "react-router-dom";

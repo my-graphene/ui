@@ -16,8 +16,8 @@
 
 Если вы являетесь разработчиком программного обеспечения, то можете поучаствовать в баунти-программе здесь:
 
-- [Github UI](https://github.com/RuiChain/rui-ui)
-- [Github Core](https://github.com/RuiChain/rui-core) 
+- [Github UI](https://github.com/my-graphene/ui)
+- [Github Core](https://github.com/my-graphene/core) 
 
 ## Введение
 

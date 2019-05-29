@@ -58,7 +58,7 @@
             "发行用户定义资产（UIA），也可以买卖通用的数字资产如BTC、ETH等。",
         "intro_text_3": "尽情享受交易的乐趣吧！",
         "intro_text_4":
-            "<br/>网站：&nbsp;&nbsp;&nbsp;&nbsp;<a target='_blank' rel='noopener noreferrer' href='https://ruichain.org'>https://ruichain.org</a><br/>论坛：&nbsp;&nbsp;&nbsp;&nbsp;<a target='_blank' rel='noopener noreferrer' href='https://ruichaintalk.org'>https://ruichaintalk.org</a><br/>GitHub：<a target='_blank' rel='noopener noreferrer' href='https://github.com/RuiChain/rui-core'>https://github.com/RuiChain/rui-core</a>",
+            "<br/>网站：&nbsp;&nbsp;&nbsp;&nbsp;<a target='_blank' rel='noopener noreferrer' href='https://ruichain.org'>https://ruichain.org</a><br/>论坛：&nbsp;&nbsp;&nbsp;&nbsp;<a target='_blank' rel='noopener noreferrer' href='https://ruichaintalk.org'>https://ruichaintalk.org</a><br/>GitHub：<a target='_blank' rel='noopener noreferrer' href='https://github.com/my-graphene/core'>https://github.com/my-graphene/core</a>",
         "intro_text_title": "欢迎使用比特股去中心化交易所！",
         "login_with": "Login with",
         "market_actions": "市场操作",
@@ -1177,7 +1177,7 @@
             "address_not_valid": "Invalid address",
             "amount": "提现金额",
             "available": "Available: ",
-            "bitshares_account": "Send to RuiChain Account",
+            "graphene_account": "Send to RuiChain Account",
             "cancel": "Cancel",
             "cannot_cover": "Insufficient funds!",
             "estimated_value": "Estimated Value",
