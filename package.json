@@ -130,7 +130,7 @@
     "dependencies": {
         "alt": "^0.18.6",
         "alt-container": "^1.0.0",
-        "alt-react": "git+https://github.com/my-graphene/react.git",
+        "alt-react": "git+https://github.com/my-graphene/all-react.git",
         "bignumber.js": "^4.0.0",
         "ui-style-guide": "git+https://github.com/my-graphene/ui-style-guide.git#02a57452198f9c9b7218f38868045df599b005a5",
         "bitsharesjs": "1.7.10",

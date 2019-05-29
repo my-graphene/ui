@@ -13,7 +13,7 @@ UI 依赖于 Node.js v6 以上版本。
 
 将以下命令复制到终端中执行即可安装 NVM。
 
-```
+```bash
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
 nvm install v6
 nvm use v6
@@ -21,14 +21,14 @@ nvm use v6
 
 Node 安装完成后，获取项目的源代码：
 
-```
+```bash
 git clone https://github.com/my-graphene/ui.git
 cd ui
 ```
 
 在启动之前，需要先安装 npm 软件包：
 
-```
+```bash
 npm install
 ```
 
@@ -38,7 +38,7 @@ npm install
 
 所有软件包安装好后，可以使用以下命令启动开发服务器：
 
-```
+```bash
 npm start
 ```
 
@@ -55,14 +55,14 @@ UI 会刷新并连接到测试网络，你可以通过水龙头创建账户并�
 ## 生产环境
 如果你想自己架设钱包，你应该进行生产环境构建，并使用 NGINX 或 Apache 托管。只需要运行以下命令构建生产环境应用包：
 
-```
+```bash
 npm run build
 ```
-
 
 应用包会创建在 `/dist` 目录下，可以使用网站服务器进行托管。
 
 ## 可安装钱包
+
 我们使用 Electron 提供可安装钱包，支持 Windows, macOS 和 Debian 系 Linux 系统，如 Ubuntu。首先确保你安装的 python 版本为 2.7.x，因为一个依赖要求此版本。
 
 在 Linux 上，你需要安装以下软件包来生成图标：
