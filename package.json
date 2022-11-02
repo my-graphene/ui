@@ -208,7 +208,7 @@
         "cross-env": "^5.0.5",
         "css-loader": "^0.28.11",
         "electron": "^2.0.0",
-        "electron-builder": "^20.13.2",
+        "electron-builder": "^20.44.4",
         "es6-promise": "^3.0.2",
         "eslint": "^4.19.0",
         "eslint-plugin-json": "^1.2.0",
